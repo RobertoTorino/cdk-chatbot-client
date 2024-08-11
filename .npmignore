@@ -1,0 +1,11 @@
+*.ts
+!*.d.ts
+.idea
+.DS_Store
+
+# CDK asset staging directory
+.cdk.staging
+cdk.out
+
+# diagrams
+diagram
