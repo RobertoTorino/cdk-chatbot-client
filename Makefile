@@ -1,5 +1,5 @@
 # Execute a sequence of actions
-all: build testme iacreport testreport
+all: build
 # Manual executions: make clean, make diff, make deploy, make diagram make diagramext make sso, make whereami.
 
 ## Build the templates
